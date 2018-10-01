@@ -1,4 +1,4 @@
- Programování v jazyce Python
+ Programování v jazyce Python -> že mne nechytíš
 =================================
 
 [![Join the chat at https://gitter.im/spseol/PRG-No](https://badges.gitter.im/spseol/PRG-No.svg)](https://gitter.im/spseol/PRG-No?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
